@@ -1,0 +1,7 @@
+---
+name: InstantRespawn
+main: xenialdan\InstantRespawn\Loader
+version: 2.0.0
+api: ["3.11"]
+author: "XenialDan"
+...

@@ -1,0 +1,10 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/thebigsmileXD/InstantRespawn
+projects:
+  InstantRespawn:
+    path: ""
+    libs:
+    - src: CortexPE/Commando/Commando
+      version: 0.3.1
+    - src: thebigsmilexd/customui/customui
+      version: 4.0.0-alpha1
+...

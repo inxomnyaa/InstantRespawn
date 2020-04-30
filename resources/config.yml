@@ -1,0 +1,19 @@
+---
+# Delay for the respawn in seconds
+respawn-after-seconds: 0
+# Hide players whilst waiting for respawn
+hide-player: true
+# Add blindness effect to the player
+blind-respawn: true
+# Show respawn countdown title
+show-countdown: true
+# Set to true to enable instant respawn in all worlds
+enable-all: false
+# WORLDS - DO NOT EDIT THIS SECTION BY HAND!
+# Worlds in which players instantly respawn and their respawn target world
+# Example:
+# - lobby
+#   enabled: true
+#   target: lobby
+worlds: []
+...
