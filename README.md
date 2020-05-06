@@ -1,7 +1,7 @@
 # InstantRespawn
 Respawn players without death screen
 
-With this plugin you are able to let players respawn instantly when they die and also cancel move for * seconds.
+With this plugin you are able to let players respawn instantly when they die and also cancel movement for * seconds.
 
 ## Features
 - ⏱ Configure respawn delay
