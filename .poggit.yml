@@ -7,4 +7,5 @@ projects:
       version: 0.3.1
     - src: thebigsmilexd/customui/customui
       version: 4.0.0-alpha1
+      branch: rewrite
 ...
